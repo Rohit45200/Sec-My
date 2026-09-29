@@ -1,0 +1,6 @@
+{
+  "name": "TechSym SaJYu-26 — Student ID Card Management System",
+  "description": "Official Student ID Card Management and Generation System for TechSym SaJYu-26 technical symposium at Sengunthar Engineering College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
